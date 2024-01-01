@@ -1,3 +1,7 @@
+// https://refactoring.guru/design-patterns/factory-method
+// Below is a basic implementation of the Factory pattern.
+// It is slightly simplified to demonstrate the basic idea.
+
 protocol Burger { 
 
     var buns: String { get }
